@@ -1,0 +1,60 @@
+name: Auto Generate Manifest
+
+on:
+  push:
+    branches:
+      - data-manifest  # Berjalan otomatis jika ada perubahan di branch ini
+  workflow_dispatch:   # Agar bisa dijalankan manual dengan tombol
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # Memberi izin script untuk menulis/mengunggah file ke repo
+    permissions:
+      contents: write
+
+    steps:
+      # 1. Masuk ke branch data-manifest untuk mengambil data zip
+      - name: Checkout data branch
+        uses: actions/checkout@v4
+        with:
+          ref: data-manifest
+
+      # 2. Proses pembuatan JSON menggunakan Python
+      - name: Create JSON list
+        run: |
+          python -c "
+          import os, json
+          # Ambil semua file .zip, hapus ekstensinya, lalu urutkan
+          files = sorted([f.replace('.zip', '') for f in os.listdir('.') if f.endswith('.zip')])
+          
+          # Susun format: Total di atas, list di bawah
+          result = {
+              'total': len(files),
+              'games': files
+          }
+          
+          with open('manifest.json', 'w') as f:
+              json.dump(result, f, indent=4)
+          "
+
+      # 3. Pindahkan file manifest ke branch gamesak-app
+      - name: Commit to gamesak-app branch
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Simpan file manifest di folder sementara server
+          cp manifest.json /tmp/manifest.json
+          
+          # Pindah ke branch tujuan
+          git fetch origin gamesak-app
+          git checkout gamesak-app
+          
+          # Masukkan file ke branch gamesak-app
+          mv /tmp/manifest.json ./manifest.json
+          
+          # Push kembali ke GitHub
+          git add manifest.json
+          git commit -m 'Update manifest: '\"$(date)\"'' || exit 0
+          git push origin gamesak-app
