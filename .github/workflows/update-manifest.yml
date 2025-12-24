@@ -39,7 +39,7 @@ jobs:
           "
 
       # 3. Pindahkan file manifest ke branch gamesak-app
-      - name: Commit to gamesak-app branch
+      - name: Commit to gemesak-app branch
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
@@ -48,13 +48,13 @@ jobs:
           cp manifest.json /tmp/manifest.json
           
           # Pindah ke branch tujuan
-          git fetch origin gamesak-app
-          git checkout gamesak-app
+          git fetch origin gemesak-app
+          git checkout gemesak-app
           
-          # Masukkan file ke branch gamesak-app
+          # Masukkan file ke branch gemesak-app
           mv /tmp/manifest.json ./manifest.json
           
           # Push kembali ke GitHub
           git add manifest.json
           git commit -m 'Update manifest: '\"$(date)\"'' || exit 0
-          git push origin gamesak-app
+          git push origin gemesak-app
