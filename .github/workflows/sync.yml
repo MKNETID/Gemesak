@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - update-manifest
+    workflow_dispatch:
 
 jobs:
   move-and-clean:
