@@ -14,7 +14,6 @@ if not os.path.exists(".git"):
 # 2. Buat branch staging yang BENAR-BENAR KOSONG (Orphan)
 # Ini memastikan kita tidak mendownload 60rb file ke laptop
 run_git(f"git checkout --orphan {STAGING_BRANCH}")
-run_git("git rm -rf . --ignore-unmatch") # Bersihkan index
 
 # 3. Masukkan file baru Anda
 run_git("git add .")
