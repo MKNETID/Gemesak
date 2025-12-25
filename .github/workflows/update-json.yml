@@ -1,0 +1,58 @@
+name: Update Zip Manifest JSON
+
+on:
+  push:
+    branches:
+      - data-manifest # Memicu workflow saat ada perubahan di branch data-manifest
+  workflow_dispatch: # Memungkinkan kamu menjalankan manual dari tab Actions
+
+jobs:
+  generate-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout data-manifest branch
+        uses: actions/checkout@v4
+        with:
+          ref: data-manifest
+          path: data-source
+
+      - name: Checkout gemesak-app branch
+        uses: actions/checkout@v4
+        with:
+          ref: gemesak-app
+          path: app-dest
+
+      - name: Generate JSON List
+        run: |
+          # Masuk ke folder data
+          cd data-source
+          
+          # Ambil semua file .zip, hapus ekstensi .zip, dan simpan ke array
+          # Kita gunakan jq untuk membuat JSON yang rapi
+          FILES=$(ls *.zip | sed 's/\.zip$//')
+          COUNT=$(echo "$FILES" | wc -l)
+          
+          # Membuat struktur JSON
+          # Menggunakan printf untuk memastikan format array JSON benar
+          JSON_DATA=$(echo "$FILES" | jq -R . | jq -s .)
+          
+          echo "{
+            \"total\": $COUNT,
+            \"files\": $JSON_DATA
+          }" > ../app-dest/list-manifest.json
+
+      - name: Commit and Push to gemesak-app
+        run: |
+          cd app-dest
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Cek jika ada perubahan
+          if [[ -n $(git status -s) ]]; then
+            git add list-manifest.json
+            git commit -m "Update list-manifest.json: $(date)"
+            git push origin gemesak-app
+          else
+            echo "Tidak ada perubahan pada file zip."
+          fi
