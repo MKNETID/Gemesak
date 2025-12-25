@@ -1,0 +1,50 @@
+name: Move Files and Clean Up
+on:
+  push:
+    branches:
+      - update-manifest
+
+jobs:
+  move-and-clean:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Config Git
+        run: |
+          git config user.name "GitHub Action Bot"
+          git config user.email "action@github.com"
+
+      - name: Copy Files to Data-Manifest
+        run: |
+          # Pindah ke branch utama yang berisi 60rb file
+          git checkout data-manifest
+          
+          # Ambil file baru dari branch update-manifest ke branch ini
+          git checkout update-manifest -- .
+          
+          # Commit dan Push jika ada perubahan
+          git add .
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Auto-merge manifest baru dari staging"
+            git push origin data-manifest
+          else
+            echo "Tidak ada perubahan untuk di-update."
+          fi
+
+      - name: Clean Up Staging Branch
+        run: |
+          # Pindah kembali ke branch update-manifest
+          git checkout update-manifest
+          
+          # Hapus semua file secara permanen di branch ini
+          git rm -rf .
+          
+          # Buat commit kosong sebagai penanda branch telah di-reset
+          git commit -m "Cleanup: Staging branch emptied after sync"
+          
+          # Push perubahan untuk mengosongkan branch di GitHub
+          git push origin update-manifest
