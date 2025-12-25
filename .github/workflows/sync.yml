@@ -1,18 +1,8 @@
-name: Move Files and Clean Up
-on:
-  push:
-    branches:
-      - update-manifest
-  workflow_dispatch:
-
-jobs:
-  move-and-clean:
-    runs-on: ubuntu-latest
-    steps:
+steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0 # Mengambil seluruh history dan semua branch
 
       - name: Config Git
         run: |
@@ -21,11 +11,18 @@ jobs:
 
       - name: Copy Files to Data-Manifest
         run: |
-          # Pindah ke branch utama yang berisi 60rb file
+          # Pastikan branch update-manifest ada di lokal runner
+          git fetch origin update-manifest
+          
+          # Pindah ke branch tujuan
           git checkout data-manifest
           
-          # Ambil file baru dari branch update-manifest ke branch ini
-          git checkout update-manifest -- .
+          # Ambil file dari branch staging ke branch saat ini
+          # Kita gunakan 'origin/update-manifest' untuk referensi yang pasti ada
+          git checkout origin/update-manifest -- .
+          
+          # Hapus file .github jika ikut terbawa agar tidak menimpa workflow utama
+          git checkout HEAD -- .github/ || true
           
           # Commit dan Push jika ada perubahan
           git add .
@@ -38,14 +35,14 @@ jobs:
 
       - name: Clean Up Staging Branch
         run: |
-          # Pindah kembali ke branch update-manifest
+          # Pindah ke branch staging
           git checkout update-manifest
           
-          # Hapus semua file secara permanen di branch ini
+          # Kosongkan branch
           git rm -rf .
           
-          # Buat commit kosong sebagai penanda branch telah di-reset
+          # Buat commit kosong agar branch tetap ada tapi bersih
           git commit -m "Cleanup: Staging branch emptied after sync"
           
-          # Push perubahan untuk mengosongkan branch di GitHub
+          # Push untuk mengosongkan branch di server
           git push origin update-manifest
