@@ -1,48 +1,65 @@
-steps:
-      - name: Checkout
+name: Auto Move and Cleanup Manifest
+
+on:
+  push:
+    branches:
+      - update-manifest
+  workflow_dispatch: # Memungkinkan menjalankan manual dari tombol di web
+
+jobs:
+  sync-process:
+    runs-on: ubuntu-latest
+    # Memberikan izin tulis agar bot bisa push dan hapus file
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Mengambil seluruh history dan semua branch
+          fetch-depth: 0 # Ambil semua branch dan history
 
-      - name: Config Git
+      - name: Configure Git Bot
         run: |
           git config user.name "GitHub Action Bot"
           git config user.email "action@github.com"
 
-      - name: Copy Files to Data-Manifest
+      - name: Move Files to Data-Manifest
         run: |
-          # Pastikan branch update-manifest ada di lokal runner
+          # Ambil data terbaru dari server
           git fetch origin update-manifest
+          git fetch origin data-manifest
           
-          # Pindah ke branch tujuan
+          # Pindah ke branch tujuan (tempat 60rb file berada)
           git checkout data-manifest
           
-          # Ambil file dari branch staging ke branch saat ini
-          # Kita gunakan 'origin/update-manifest' untuk referensi yang pasti ada
+          # Ambil SEMUA file dari branch update-manifest ke branch data-manifest
+          # Titik (.) artinya semua file.
           git checkout origin/update-manifest -- .
           
-          # Hapus file .github jika ikut terbawa agar tidak menimpa workflow utama
+          # Proteksi: Pastikan folder .github tidak ikut tertimpa file dari staging
           git checkout HEAD -- .github/ || true
           
-          # Commit dan Push jika ada perubahan
+          # Commit jika ada file baru/berubah
           git add .
           if ! git diff-index --quiet HEAD; then
-            git commit -m "Auto-merge manifest baru dari staging"
+            git commit -m "Bot: Menambahkan manifest baru dari staging"
             git push origin data-manifest
           else
-            echo "Tidak ada perubahan untuk di-update."
+            echo "Tidak ada file baru yang ditemukan."
           fi
 
-      - name: Clean Up Staging Branch
+      - name: Reset Staging Branch (Cleanup)
+        if: success()
         run: |
-          # Pindah ke branch staging
+          # Pindah kembali ke branch staging
           git checkout update-manifest
           
-          # Kosongkan branch
+          # Hapus semua file di branch ini agar kosong kembali
           git rm -rf .
           
-          # Buat commit kosong agar branch tetap ada tapi bersih
-          git commit -m "Cleanup: Staging branch emptied after sync"
+          # Commit kosong agar branch tidak hilang
+          git commit -m "Bot: Cleaning up staging branch"
           
-          # Push untuk mengosongkan branch di server
-          git push origin update-manifest
+          # Push perubahan kosong ke server
+          git push origin update-manifest --force
