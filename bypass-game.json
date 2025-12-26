@@ -1,5 +1,5 @@
 {
-  "BypassGame": {
+  "GameBypass": {
     "2050650": {
       "name": "Resident Evil 4 Remake",
       "launch_steam": true,
@@ -13,7 +13,7 @@
         "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2019 and DirectX.",
         "Your antivirus may block the EMP.dll file, it is completely safe. To make the fix work, you need to allow it and reapply the fix."
       ],
-      "url_fix": {},
+      "url_fix": {https://www.dropbox.com/scl/fi/s2ysg26yraxgbzd3idiiy/Resident-Evil-4-Remake-Bypass.zip?rlkey=7dk3ft3uqabgv99eb4lwht9yp&st=nrpsrdsw&dl=1},
       "custom_images": {}
     },
     "493340": {
@@ -28,7 +28,7 @@
       "Note": [
         "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2015 and DirectX."
       ],
-      "url_fix": {},
+      "url_fix": {https://www.dropbox.com/scl/fi/s3fwraqjh0680jwx3kr5y/Planet-Coaster-Bypass.zip?rlkey=nwc839h91gbr20r6htyl3srof&st=mdyw9z5r&dl=1},
       "custom_images": {}
     }
   }
