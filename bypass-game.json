@@ -67,6 +67,41 @@
       ],
       "url_fix": "https://www.dropbox.com/scl/fi/190mv29z0g9xwbfdgy1sv/Just-Cause-3-Bypass.zip?rlkey=hn2brapqrern6jhs7oldzkhfm&st=mkwmnmns&dl=1",
       "custom_images": {}
+    },
+    "2428810": {
+      "name": "LEGO® Horizon Adventures",
+      "launch_steam": true,
+      "launch_exe": true,
+      "programas_required": ["DirectX", "VC Redist"],
+      "Note": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist."
+      ],
+      "url_fix": "https://www.dropbox.com/scl/fi/s4qimp3onh7w5xxijpp3q/Lego-Horizon-Adventures-Bypass.zip?rlkey=p3ojmfyj85qn0xqixwkk881su&st=74ef89nd&dl=1",
+      "custom_images": {}
+    },
+    "241560": {
+      "name": "The Crew",
+      "launch_steam": true,
+      "launch_exe": true,
+      "programas_required": ["DirectX", ".NET", "Ubisoft Play"],
+      "Note": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play.",
+        "The game only works when launched through Steam."
+      ],
+      "url_fix": "https://www.dropbox.com/scl/fi/cn6x2z3o1fc0c8aesqybu/The-Crew-Bypass.zip?rlkey=n9j5k4bbu82edmbkvns2uuqnm&st=10xquzjl&dl=1",
+      "custom_images": {}
+    },
+    "646910": {
+      "name": "The Crew 2",
+      "launch_steam": true,
+      "launch_exe": true,
+      "programas_required": ["DirectX", ".NET", "Ubisoft Play"],
+      "Note": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play.",
+        "If you cant open the game with steam, try to open it with the exe in the folder called TheCrew2.exe"
+      ],
+      "url_fix": "https://www.dropbox.com/scl/fi/8b4lrjfnowv8d78mjsd65/The-Crew-2-Bypass.zip?rlkey=2q5hik9kegmcc436ow5ipjkfd&st=r4yshnp1&dl=1",
+      "custom_images": {}
     }
   }
 }
