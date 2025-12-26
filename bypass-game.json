@@ -4,11 +4,7 @@
       "name": "Resident Evil 4 Remake",
       "launch_steam": true,
       "launch_exe": true,
-      "programas_required": [
-        ".NET 4.6.2",
-        "Microsoft VC redistributable 2019",
-        "DirectX"
-      ],
+      "programas_required": [".NET 4.6.2", "Microsoft VC redistributable 2019", "DirectX"],
       "Note": [
         "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2019 and DirectX.",
         "Your antivirus may block the EMP.dll file, it is completely safe. To make the fix work, you need to allow it and reapply the fix."
@@ -20,11 +16,7 @@
       "name": "Planet Coaster",
       "launch_steam": true,
       "launch_exe": true,
-      "programas_required": [
-        ".NET 4.6.2",
-        "Microsoft VC redistributable 2015",
-        "DirectX"
-      ],
+      "programas_required": [".NET 4.6.2", "Microsoft VC redistributable 2015", "DirectX"],
       "Note": [
         "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2015 and DirectX."
       ],
