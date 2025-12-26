@@ -1,4 +1,4 @@
 # Gemesak App Branch 
 credit:
-- SteamAutoCracks
-- LightnigFast
+- [SteamAutoCracks](https://github.com/SteamAutoCracks/)
+- [LightnigFast](https://github.com/LightnigFast/)
