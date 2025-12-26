@@ -10,7 +10,7 @@
         "Your antivirus may block the EMP.dll file, it is completely safe. To make the fix work, you need to allow it and reapply the fix."
       ],
       "url_fix": "https://www.dropbox.com/scl/fi/s2ysg26yraxgbzd3idiiy/Resident-Evil-4-Remake-Bypass.zip?rlkey=7dk3ft3uqabgv99eb4lwht9yp&st=nrpsrdsw&dl=1",
-      "custom_images": {}
+      "custom_images": " "
     },
     "493340": {
       "name": "Planet Coaster",
@@ -21,6 +21,51 @@
         "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2015 and DirectX."
       ],
       "url_fix": "https://www.dropbox.com/scl/fi/s3fwraqjh0680jwx3kr5y/Planet-Coaster-Bypass.zip?rlkey=nwc839h91gbr20r6htyl3srof&st=mdyw9z5r&dl=1",
+      "custom_images": {}
+    },
+    "33230": {
+      "name": "Assassin's Creed II",
+      "launch_steam": true,
+      "launch_exe": true,
+      "programas_required": ["DirectX", ".NET", "Ubisoft Play"],
+      "Note": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play.",
+      ],
+      "url_fix": "https://www.dropbox.com/scl/fi/oh5okzah9r5szm6qx3tms/Assassins-Creed-II-Bypass.zip?rlkey=mf96nb0ab3sou4dj67n7lhq2h&st=qqlscxku&dl=1",
+      "custom_images": {}
+    },
+    "242050": {
+      "name": "Assassin's Creed IV Black Flag",
+      "launch_steam": true,
+      "launch_exe": true,
+      "programas_required": ["DirectX", ".NET", "Ubisoft Play"],
+      "Note": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play.",
+      ],
+      "url_fix": "https://www.dropbox.com/scl/fi/l5fqf58minydccrsxjf52/Assassins-Creed-IV-Black-Flag-Bypass.zip?rlkey=qwibf39godjvg7xyc2vro2dzf&st=5euzfry9&dl=1",
+      "custom_images": {}
+    },
+    "1904540": {
+      "name": "Football Manager 2023",
+      "launch_steam": true,
+      "launch_exe": true,
+      "programas_required": ["DirectX", "VC Redist"],
+      "Note": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist.",
+        "The fix is made in the Spanish language. If you want to play in English, you must access: Engine\\Binaries\\ThirdParty\\Steamworks\\Steamv141\\Win64 and open the .ini file that is in the folder. Inside the file, change the language line and put this: Language=English."
+      ],
+      "url_fix": "https://www.dropbox.com/scl/fi/gl37260t2aqlk73y30cjd/Football-Manager-2023-Bypass.zip?rlkey=xujgejgdshrslqjvuzgysh9w5&st=5rwf9guj&dl=1",
+      "custom_images": {}
+    },
+    "225540": {
+      "name": "Just Cause 3",
+      "launch_steam": true,
+      "launch_exe": true,
+      "programas_required": ["DirectX", "VC Redist"],
+      "Note": [
+        "If the game shows errors when opening, you need to install DirectX, VC Redist 2010 and VC Redist 2015."
+      ],
+      "url_fix": "https://www.dropbox.com/scl/fi/190mv29z0g9xwbfdgy1sv/Just-Cause-3-Bypass.zip?rlkey=hn2brapqrern6jhs7oldzkhfm&st=mkwmnmns&dl=1",
       "custom_images": {}
     }
   }
