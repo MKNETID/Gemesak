@@ -29,7 +29,7 @@
       "launch_exe": true,
       "programas_required": ["DirectX", ".NET", "Ubisoft Play"],
       "Note": [
-        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play.",
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play."
       ],
       "url_fix": "https://www.dropbox.com/scl/fi/oh5okzah9r5szm6qx3tms/Assassins-Creed-II-Bypass.zip?rlkey=mf96nb0ab3sou4dj67n7lhq2h&st=qqlscxku&dl=1",
       "custom_images": {}
@@ -40,7 +40,7 @@
       "launch_exe": true,
       "programas_required": ["DirectX", ".NET", "Ubisoft Play"],
       "Note": [
-        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play.",
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play."
       ],
       "url_fix": "https://www.dropbox.com/scl/fi/l5fqf58minydccrsxjf52/Assassins-Creed-IV-Black-Flag-Bypass.zip?rlkey=qwibf39godjvg7xyc2vro2dzf&st=5euzfry9&dl=1",
       "custom_images": {}
@@ -89,7 +89,9 @@
         "The game only works when launched through Steam."
       ],
       "url_fix": "https://www.dropbox.com/scl/fi/cn6x2z3o1fc0c8aesqybu/The-Crew-Bypass.zip?rlkey=n9j5k4bbu82edmbkvns2uuqnm&st=10xquzjl&dl=1",
-      "custom_images": "https://cdn2.steamgriddb.com/grid/d2500d51d3ed0791852f4ea4b4a2cf03.png"
+      "custom_images": {
+        "main": "https://cdn2.steamgriddb.com/grid/d2500d51d3ed0791852f4ea4b4a2cf03.png"
+      }
     },
     "646910": {
       "name": "The Crew 2",
