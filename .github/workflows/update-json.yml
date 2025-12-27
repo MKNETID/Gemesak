@@ -6,7 +6,7 @@ on:
       - data-manifest # Memicu workflow saat ada perubahan di branch data-manifest
   
   schedule:
-    - cron: '0 * * * *' # Menjalankan setiap jam (menit ke-0)
+    - cron: '0 3 * * *' # Menjalankan setiap jam (menit ke-0)
       
   workflow_dispatch: # Memungkinkan kamu menjalankan manual dari tab Actions
 
