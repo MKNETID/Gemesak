@@ -34,7 +34,7 @@ jobs:
           mkdir -p new_zips
           
           # List repositori sumber
-          SOURCES=("dvahana2424-web/sojogamesdatabase1" "Princeboy520/ManifestHub")
+          SOURCES=("dvahana2424-web/sojogamesdatabase1" "Princeboy520/ManifestHub" "SPIN0ZAi/SB_manifest_DB")
           
           # Ambil daftar yang sudah ada di JSON
           jq -r '.files[]' gemesak-app/list-manifest.json > existing_list.txt
