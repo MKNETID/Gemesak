@@ -1,0 +1,36 @@
+name: Remove Large File from History
+
+on:
+  workflow_dispatch: # Memungkinkan Anda menjalankan ini secara manual dari tab "Actions"
+
+jobs:
+  remove-file:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Mengambil seluruh riwayat commit
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Install git-filter-repo
+        run: |
+          sudo apt-get update
+          sudo apt-get install python3-pip -y
+          pip3 install git-filter-repo
+
+      - name: Remove main.zip from history
+        run: |
+          # Konfigurasi identitas git
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Jalankan pembersihan file main.zip
+          git filter-repo --path main.zip --invert-paths --force
+
+      - name: Push changes
+        run: |
+          # Menambahkan kembali remote karena filter-repo menghapusnya untuk keamanan
+          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git push origin --force --all
+          git push origin --force --tags
