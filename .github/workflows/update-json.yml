@@ -1,4 +1,4 @@
-name: Update Zip Manifest JSON
+name: List Manifest JSON
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - data-manifest
   
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 7 * * *'
       
   workflow_dispatch:
 
