@@ -6,11 +6,10 @@
       "launch_exe": true,
       "programas_required": [".NET 4.6.2", "Microsoft VC redistributable 2019", "DirectX"],
       "Note": [
-        "If you want to play the Separate Ways DLC, you must install the original game or bypass Denuvo.",
-        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2019 and DirectX.",
-        "Your antivirus may block the EMP.dll file, it is completely safe. To make the fix work, you need to allow it and reapply the fix."
+        "Now, you can play Resident Evil 4 Remake without bypassing Denuvo or bypassing the game.",
+        "However, the Separate Ways DLC currently doesn't allow you to save your game.",
       ],
-      "url_fix": "https://www.dropbox.com/scl/fi/s2ysg26yraxgbzd3idiiy/Resident-Evil-4-Remake-Bypass.zip?rlkey=7dk3ft3uqabgv99eb4lwht9yp&st=nrpsrdsw&dl=1",
+      "url_fix": "",
       "custom_images": {}
     },
     "493340": {
