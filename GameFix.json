@@ -1,5 +1,27 @@
 {
   "GameFix": {
+    "3112260": {
+      "Name": " Virtua Fighter 5 R.E.V.O. World Stage",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Virtua%20Fighter%205%20REVO.zip",
+      "Custom_Images": ""
+    },
+    "958520": {
+      "Name": "33 Immortals",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/33%20Immortals.zip",
+      "Custom_Images": ""
+    },
     "251570": {
       "Name": "7 Days to Die",
       "GameFix": true,
@@ -262,6 +284,17 @@
         "Enjoy the Game.."
       ],
       "Url_Fix": "https://generator.ryuu.lol/fixes/ASTRONEER.zip",
+      "Custom_Images": ""
+    },
+    "2924860": {
+      "Name": "Astrumis - Survive Together",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Astrumis%20-%20Survive%20Together.zip",
       "Custom_Images": ""
     },
     "449800": {
@@ -1001,6 +1034,17 @@
       "Url_Fix": "https://generator.ryuu.lol/fixes/Crusader%20Kings%20III.zip",
       "Custom_Images": ""
     },
+    "1892140": {
+      "Name": "Cryptid Farm",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Cryptid%20Farm.zip",
+      "Custom_Images": ""
+    },
     "3400000": {
       "Name": "Cubic Odyssey",
       "GameFix": true,
@@ -1494,6 +1538,17 @@
         "Enjoy the Game.."
       ],
       "Url_Fix": "https://generator.ryuu.lol/fixes/Escape%20First%203.zip",
+      "Custom_Images": ""
+    },
+    "1316700": {
+      "Name": "Escape from Kyoto House",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Escape%20from%20Kyoto%20House.zip",
       "Custom_Images": ""
     },
     "227300": {
@@ -2838,6 +2893,754 @@
       "Url_Fix": "https://generator.ryuu.lol/fixes/Myth%20of%20Empires.zip",
       "Custom_Images": ""
     },
+    "363860": {
+      "Name": "MythForce",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/MythForce.zip",
+      "Custom_Images": ""
+    },
+    "349040": {
+      "Name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Naruto%20Shippuden%20Ultimate%20Ninja%20STORM%204.zip",
+      "Custom_Images": ""
+    },
+    "272510": {
+      "Name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/NARUTO%20SHIPPUDEN%20Ultimate%20Ninja%20STORM%20Revolution.zip",
+      "Custom_Images": ""
+    },
+    "1020790": {
+      "Name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Naruto%20x%20Boruto%20Ultimate%20Ninja%20Storm%20Connections.zip",
+      "Custom_Images": ""
+    },
+    "1127980": {
+      "Name": "NASCAR Heat 4",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/NASCAR%20Heat%204.zip",
+      "Custom_Images": ""
+    },
+    "1265860": {
+      "Name": "NASCAR Heat 5",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/NASCAR%20Heat%205.zip",
+      "Custom_Images": ""
+    },
+    "1262560": {
+      "Name": "Need for Speed™ Most Wanted",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Need%20for%20Speed%20Most%20Wanted%20Bypass.zip",
+      "Custom_Images": ""
+    },
+    "1262580": {
+      "Name": "Need for Speed™ Payback",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Need%20For%20Speed%20PayBack.zip",
+      "Custom_Images": ""
+    },
+    "1262600": {
+      "Name": "Need for Speed™ Rivals",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Need%20For%20Speed%20Rival%20Bypass.zip",
+      "Custom_Images": ""
+    },
+    "1732430": {
+      "Name": "Neighbors: Suburban Warfare",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Neighbors%20Suburban%20Warfare.zip",
+      "Custom_Images": ""
+    },
+    "1983990": {
+      "Name": "Nexus 5X",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Stellaris%20Nexus.zip",
+      "Custom_Images": ""
+    },
+    "1377380": {
+      "Name": "Night of the Dead",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Night%20of%20the%20Dead.zip",
+      "Custom_Images": ""
+    },
+    "3376250": {
+      "Name": "Nine-Ball Roulette",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Nine-Ball%20Roulette.zip",
+      "Custom_Images": ""
+    },
+    "1325200": {
+      "Name": "Nioh 2 – The Complete Edition",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Nioh%202%20The%20Complete%20Edition.zip",
+      "Custom_Images": ""
+    },
+    "275850": {
+      "Name": "No Man's Sky",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/No%20Man's%20Sky%20Bypass.zip",
+      "Custom_Images": ""
+    },
+    "2732610": {
+      "Name": "Nobody Sleeps Tonight",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Nobody%20Sleeps%20Tonight.zip",
+      "Custom_Images": ""
+    },
+    "2909110": {
+      "Name": "Nuclear Nightmare",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Nuclear%20Nightmare.zip",
+      "Custom_Images": ""
+    },
+    "2168680": {
+      "Name": "Nuclear Option",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Nuclear%20Option.zip",
+      "Custom_Images": ""
+    },
+    "1745680": {
+      "Name": "Odd Remedy",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Odd%20Remedy.zip",
+      "Custom_Images": ""
+    },
+    "2262080": {
+      "Name": "Omega Crafter",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Omega%20Crafter.zip",
+      "Custom_Images": ""
+    },
+    "425220": {
+      "Name": "One Piece Burning Blood",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/One%20Piece%20Burning%20Blood.zip",
+      "Custom_Images": ""
+    },
+    "2500750": {
+      "Name": "Only Climb: Better Together",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Only%20Climb%20Better%20Together.zip",
+      "Custom_Images": ""
+    },
+    "1913370": {
+      "Name": "OPERATOR",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/OPERATOR.zip",
+      "Custom_Images": ""
+    },
+    "2273980": {
+      "Name": "Orcs Must Die! Deathtrap",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Orcs%20Must%20Die!%20Deathtrap.zip",
+      "Custom_Images": ""
+    },
+    "402710": {
+      "Name": "Osiris: New Dawn",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Osiris%20New%20Dawn.zip",
+      "Custom_Images": ""
+    },
+    "2009350": {
+      "Name": "Out of Ore",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Out%20of%20Ore.zip",
+      "Custom_Images": ""
+    },
+    "1107320": {
+      "Name": "OUTBRK",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/OUTBRK.zip",
+      "Custom_Images": ""
+    },
+    "753640": {
+      "Name": "Outer Wilds",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Outer%20Wilds.zip",
+      "Custom_Images": ""
+    },
+    "680420": {
+      "Name": "OUTRIDERS",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/OUTRIDERS.zip",
+      "Custom_Images": ""
+    },
+    "1243830": {
+      "Name": "Overcooked! All You Can Eat",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Overcooked!%20All%20You%20Can%20Eat.zip",
+      "Custom_Images": ""
+    },
+    "1830630": {
+      "Name": "Overpass 2",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Overpass%202.zip",
+      "Custom_Images": ""
+    },
+    "1133500": {
+      "Name": "Overthrown",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Overthrown.zip",
+      "Custom_Images": ""
+    },
+    "967050": {
+      "Name": "Pacify",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Pacify.zip",
+      "Custom_Images": ""
+    },
+    "1623730": {
+      "Name": "Palworld",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Palworld.zip",
+      "Custom_Images": ""
+    },
+    "3036880": {
+      "Name": "Panic In The Woods",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Panic%20In%20The%20Woods.zip",
+      "Custom_Images": ""
+    },
+    "2695940": {
+      "Name": "PANICORE",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/PANICORE.zip",
+      "Custom_Images": ""
+    },
+    "1592290": {
+      "Name": "PARANOIA PLACE",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/PARANOIA%20PLACE.zip",
+      "Custom_Images": ""
+    },
+    "1726130": {
+      "Name": "Pathless Woods",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Pathless%20Woods.zip",
+      "Custom_Images": ""
+    },
+    "218620": {
+      "Name": "PAYDAY 2",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/PAYDAY%202.zip",
+      "Custom_Images": ""
+    },
+    "1272080": {
+      "Name": "PAYDAY 3",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/PAYDAY%203.zip",
+      "Custom_Images": ""
+    },
+    "1521580": {
+      "Name": "Perfect Heist 2",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Perfect%20Heist%202.zip",
+      "Custom_Images": ""
+    },
+    "1687950": {
+      "Name": "Persona 5 Royal",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Persona.5.Royal.CRACKONLY-MKDEV.zip",
+      "Custom_Images": ""
+    },
+    "739630": {
+      "Name": "Phasmophobia",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Phasmophobia.zip",
+      "Custom_Images": ""
+    },
+    "1509960": {
+      "Name": "PICO PARK",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/PICO%20PARK.zip",
+      "Custom_Images": ""
+    },
+    "2644470": {
+      "Name": "PICO PARK 2",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/PICO%20PARK%202.zip",
+      "Custom_Images": ""
+    },
+    "246620": {
+      "Name": "Plague Inc: Evolved",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Plague%20Inc%20Evolved.zip",
+      "Custom_Images": ""
+    },
+    "2800450": {
+      "Name": "Planetaries",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Planetaries.zip",
+      "Custom_Images": ""
+    },
+    "3654560": {
+      "Name": "Plants vs. Zombies™: Replanted",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Plants_vs_Zombies.zip",
+      "Custom_Images": ""
+    },
+    "997010": {
+      "Name": "Police Simulator: Patrol Officers",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Police%20Simulator%20Patrol%20Officers.zip",
+      "Custom_Images": ""
+    },
+    "620": {
+      "Name": "Portal 2",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Portal%202.zip",
+      "Custom_Images": ""
+    },
+    "1290000": {
+      "Name": "PowerWash Simulator",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/PowerWash%20Simulator.zip",
+      "Custom_Images": ""
+    },
+    "33320": {
+      "Name": "Prince of Persia: The Forgotten Sands™",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Prince%20of%20Persia%20The%20Forgotten%20Sands%20Bypass.zip",
+      "Custom_Images": ""
+    },
+    "2725200": {
+      "Name": "Prisoners",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Prisoners.zip",
+      "Custom_Images": ""
+    },
+    "2115390": {
+      "Name": "Project Unknown",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Project%20Unknown.zip",
+      "Custom_Images": ""
+    },
+    "108600": {
+      "Name": "Project Zomboid",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Project%20Zomboid.zip",
+      "Custom_Images": ""
+    },
+    "1682050": {
+      "Name": "PropHunter",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/PropHunter.zip",
+      "Custom_Images": ""
+    },
+    "115320": {
+      "Name": "Prototype 2",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/ProtoType%202.zip",
+      "Custom_Images": ""
+    },
+    "3030360": {
+      "Name": "Puppet Team",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Puppet%20Team.zip",
+      "Custom_Images": ""
+    },
+    "3298460": {
+      "Name": "Pushing it! Together - Sisyphus Co-op",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Pushing%20it!%20Together%20Sisyphus.zip",
+      "Custom_Images": ""
+    },
+    "3241660": {
+      "Name": "R.E.P.O.",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/R.E.P.O.zip",
+      "Custom_Images": ""
+    },
+    "648800": {
+      "Name": "Raft",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Raft.zip",
+      "Custom_Images": ""
+    },
+    "1677970": {
+      "Name": "Railroad Corporation 2",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Railroad%20Corporation%202.zip",
+      "Custom_Images": ""
+    },
+    "1644320": {
+      "Name": "Railway Empire 2",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/RAILWAY%20EMPIRE%202.zip",
+      "Custom_Images": ""
+    },
+    "1144200": {
+      "Name": "Ready or Not",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Ready%20Or%20Not.zip",
+      "Custom_Images": ""
+    },
+    "2668510": {
+      "Name": "Red Dead Redemption",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Red%20Dead%20Redemption%201%20Bypass.zip",
+      "Custom_Images": ""
+    },
+    "1174180": {
+      "Name": "Red Dead Redemption 2",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Red%20Dead%20Redemption%202.zip",
+      "Custom_Images": ""
+    },
+    "1282100": {
+      "Name": "REMNANT II®",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Remnant%20II.zip",
+      "Custom_Images": ""
+    },
+    "2533020": {
+      "Name": "Renaissance Kingdom Wars",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Renaissance%20Kingdom%20Wars.zip",
+      "Custom_Images": ""
+    },
     "2050650": {
       "Name": "Resident Evil 4",
       "GameFix": true,
@@ -2848,6 +3651,1447 @@
         "However, the Separate Ways DLC currently doesn't allow you to save your game."
       ],
       "Url_Fix": "",
+      "Custom_Images": ""
+    },
+    "2787320": {
+      "Name": "Revenge of the Savage Planet",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Revenge%20of%20the%20Savage%20Planet.zip",
+      "Custom_Images": ""
+    },
+    "2290180": {
+      "Name": "Riders Republic",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Riders%20Republic%20Ubisoft%20Bypass.zip",
+      "Custom_Images": ""
+    },
+    "1340990": {
+      "Name": "Rise of the Ronin",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Rise%20Of%20The%20Ronin.zip",
+      "Custom_Images": ""
+    },
+    "2104890": {
+      "Name": "RoadCraft",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Roadcraft.zip",
+      "Custom_Images": ""
+    },
+    "2703850": {
+      "Name": "Rooftops & Alleys: The Parkour Game",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Rooftops%20&%20Alleys%20The%20Parkour%20Game.zip",
+      "Custom_Images": ""
+    },
+    "2015270": {
+      "Name": "Rotwood",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Rotwood.zip",
+      "Custom_Images": ""
+    },
+    "1374490": {
+      "Name": "RuneScape: Dragonwilds",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Runescape%20Dragonwilds.zip",
+      "Custom_Images": ""
+    },
+    "1643320": {
+      "Name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/S.T.A.L.K.E.R.%202%20Heart%20of%20Chornobyl.zip",
+      "Custom_Images": ""
+    },
+    "1599660": {
+      "Name": "Sackboy™: A Big Adventure",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Sackboy%20Big%20Adventure.zip",
+      "Custom_Images": ""
+    },
+    "301910": {
+      "Name": "Saints Row: Gat out of Hell",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Saint%20Row%20Get%20Out%20Of%20Hell.zip",
+      "Custom_Images": ""
+    },
+    "2719200": {
+      "Name": "SAMURAI WARRIORS 4 DX",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Samurai%20Warriors%204%20DX.zip",
+      "Custom_Images": ""
+    },
+    "526870": {
+      "Name": "Satisfactory",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Satisfactory.zip",
+      "Custom_Images": ""
+    },
+    "3164500": {
+      "Name": "Schedule I",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Schedule%201.zip",
+      "Custom_Images": ""
+    },
+    "872670": {
+      "Name": "SCP: 5K",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/SCP%205k.zip",
+      "Custom_Images": ""
+    },
+    "3111080": {
+      "Name": "Secret Agent Wizard Boy and the International Crime Syndicate",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Secret%20Agent%20Wizard%20Boy%20And%20The%20International%20Crime%20Syndicate.zip",
+      "Custom_Images": ""
+    },
+    "1702010": {
+      "Name": "Sengoku Dynasty",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Sengoku%20Dynasty.zip",
+      "Custom_Images": ""
+    },
+    "1252680": {
+      "Name": "SENTRY",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/SENTRY.zip",
+      "Custom_Images": ""
+    },
+    "2436940": {
+      "Name": "Sephiria",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Sephiria.zip",
+      "Custom_Images": ""
+    },
+    "257420": {
+      "Name": "Serious Sam 4",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Serious%20Sam%204.zip",
+      "Custom_Images": ""
+    },
+    "2201940": {
+      "Name": "Ship Graveyard Simulator 2",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Ship%20Graveyard%20Simulator%202.zip",
+      "Custom_Images": ""
+    },
+    "1266540": {
+      "Name": "Ships At Sea",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Shipts%20at%20Sea.zip",
+      "Custom_Images": ""
+    },
+    "289070": {
+      "Name": "Sid Meier’s Civilization® VI",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Sid%20Meiers%20Civilization%20VI.zip",
+      "Custom_Images": ""
+    },
+    "1791910": {
+      "Name": "Silent Rain",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Silent%20Rain.zip",
+      "Custom_Images": ""
+    },
+    "1575940": {
+      "Name": "Sins of a Solar Empire II",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Sins%20of%20a%20Solar%20Empire%20II.zip",
+      "Custom_Images": ""
+    },
+    "1548850": {
+      "Name": "Six Days in Fallujah",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Six%20Days%20in%20Fallujah.zip",
+      "Custom_Images": ""
+    },
+    "2354000": {
+      "Name": "Slackers - Carts of Glory",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Slackers%20Carts%20of%20Glory.zip",
+      "Custom_Images": ""
+    },
+    "202170": {
+      "Name": "Sleeping Dogs",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Sleeping%20Dogs%20Bypass.zip",
+      "Custom_Images": ""
+    },
+    "307690": {
+      "Name": "Sleeping Dogs: Definitive Edition",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Sleeping%20Dogs%20Definitive%20Edition%20Bypass.zip",
+      "Custom_Images": ""
+    },
+    "1465360": {
+      "Name": "SnowRunner",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/SnowRunner.zip",
+      "Custom_Images": ""
+    },
+    "1893810": {
+      "Name": "Solium Infernum",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Solium%20Infernum.zip",
+      "Custom_Images": ""
+    },
+    "2195410": {
+      "Name": "Songs of Silence",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Songs%20of%20Silence.zip",
+      "Custom_Images": ""
+    },
+    "212480": {
+      "Name": "Sonic & All-Stars Racing Transformed Collection",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Sonic%20&%20All-Stars%20Racing%20Transformed%20Collection.zip",
+      "Custom_Images": ""
+    },
+    "2055290": {
+      "Name": "Sonic Colors: Ultimate",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Sonic.Colors.Ultimate.Crack.Only-voices38.rar",
+      "Custom_Images": ""
+    },
+    "1237320": {
+      "Name": "Sonic Frontiers",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Sonic.Frontiers.Crack.Only-voices38.rar",
+      "Custom_Images": ""
+    },
+    "1326470": {
+      "Name": "Sons Of The Forest",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Sons%20Of%20The%20Forest.zip",
+      "Custom_Images": ""
+    },
+    "544750": {
+      "Name": "SOULCALIBUR VI",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/SOULCALIBUR%20VI.zip",
+      "Custom_Images": ""
+    },
+    "2646460": {
+      "Name": "Soulmask",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Soul%20Mask.zip",
+      "Custom_Images": ""
+    },
+    "1624060": {
+      "Name": "Space for Sale",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Space%20for%20Sale.zip",
+      "Custom_Images": ""
+    },
+    "1732420": {
+      "Name": "Spanky!",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Spanky.zip",
+      "Custom_Images": ""
+    },
+    "2620240": {
+      "Name": "Spectral Scream",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Spectral%20Scream.zip",
+      "Custom_Images": ""
+    },
+    "1592110": {
+      "Name": "Spirit of the Island",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Spirit%20of%20the%20Island.zip",
+      "Custom_Images": ""
+    },
+    "2001120": {
+      "Name": "Split Fiction",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Split%20Fiction.zip",
+      "Custom_Images": ""
+    },
+    "393380": {
+      "Name": "Squad",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Squad.zip",
+      "Custom_Images": ""
+    },
+    "2977620": {
+      "Name": "Squirreled Away",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Squirreled%20Away.zip",
+      "Custom_Images": ""
+    },
+    "9900": {
+      "Name": "Star Trek Online",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Star%20Trek.zip",
+      "Custom_Images": ""
+    },
+    "1172380": {
+      "Name": "STAR WARS Jedi: Fallen Order™",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Star%20Wars%20Jedi%20Fallen%20Order.zip",
+      "Custom_Images": ""
+    },
+    "1774580": {
+      "Name": "STAR WARS Jedi: Survivor™",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Star%20Wars%20Jedi%20Survivor.zip",
+      "Custom_Images": ""
+    },
+    "1237950": {
+      "Name": "STAR WARS™ Battlefront™ II",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Star%20Wars%20Battlefront%20II.zip",
+      "Custom_Images": ""
+    },
+    "2793380": {
+      "Name": "Starground",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Starground.zip",
+      "Custom_Images": ""
+    },
+    "3213600": {
+      "Name": "Store Wars: Multiplayer Shop Simulator",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Store%20Wars%20Multiplayer%20Shop%20Simulator.zip",
+      "Custom_Images": ""
+    },
+    "3125250": {
+      "Name": "STORROR Parkour Pro",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/STORROR%20Parkour%20Pro.zip",
+      "Custom_Images": ""
+    },
+    "3075800": {
+      "Name": "Subterranauts",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Subterranauts.zip",
+      "Custom_Images": ""
+    },
+    "2846060": {
+      "Name": "Subterror",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Subterror.zip",
+      "Custom_Images": ""
+    },
+    "315210": {
+      "Name": "Suicide Squad: Kill the Justice League",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Suicide%20Squad%20Kill%20The%20Justice%20League.zip",
+      "Custom_Images": ""
+    },
+    "1601330": {
+      "Name": "Survival Machine",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Survival%20Machine.zip",
+      "Custom_Images": ""
+    },
+    "2999090": {
+      "Name": "Survivor World",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Survivor%20World.zip",
+      "Custom_Images": ""
+    },
+    "1763250": {
+      "Name": "SWORN",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/SWORN.zip",
+      "Custom_Images": ""
+    },
+    "286160": {
+      "Name": "Tabletop Simulator",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Tabletop%20Simulator.zip",
+      "Custom_Images": ""
+    },
+    "1498130": {
+      "Name": "Tank Squad",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Tank%20Squad.zip",
+      "Custom_Images": ""
+    },
+    "2165470": {
+      "Name": "Taora : Survival",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Taora%20Survival.zip",
+      "Custom_Images": ""
+    },
+    "389730": {
+      "Name": "TEKKEN 7",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Tekken%207.zip",
+      "Custom_Images": ""
+    },
+    "2510960": {
+      "Name": "Temtem: Swarm",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Temtem%20Swarm.zip",
+      "Custom_Images": ""
+    },
+    "3172770": {
+      "Name": "Terrorbytes",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Terrorbytes.zip",
+      "Custom_Images": ""
+    },
+    "2960770": {
+      "Name": "The Anomaly Project",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/The%20Anomaly%20Project.zip",
+      "Custom_Images": ""
+    },
+    "2518430": {
+      "Name": "The Backrooms : Last Expedition",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/The%20Backrooms%20Last%20Expedition.zip",
+      "Custom_Images": ""
+    },
+    "250900": {
+      "Name": "The Binding of Isaac: Rebirth",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/The%20Binding%20of%20Isaac%20Rebirth.zip",
+      "Custom_Images": ""
+    },
+    "2189670": {
+      "Name": "The Black Pool",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/The%20Black%20Pool.zip",
+      "Custom_Images": ""
+    },
+    "1281590": {
+      "Name": "The Dark Pictures Anthology: House of Ashes",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/The%20Dark%20Pictures%20Anthology%20House%20of%20Ashes.zip",
+      "Custom_Images": ""
+    },
+    "1194630": {
+      "Name": "The Dark Pictures Anthology: Little Hope",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/The%20Dark%20Pictures%20Anthology%20Little%20Hope.zip",
+      "Custom_Images": ""
+    },
+    "939850": {
+      "Name": "The Dark Pictures Anthology: Man of Medan",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/The%20Dark%20Pictures%20Anthology%20Man%20of%20Medan.zip",
+      "Custom_Images": ""
+    },
+    "1567020": {
+      "Name": "The Dark Pictures Anthology: The Devil in Me",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/The%20Dark%20Pictures%20Anthology%20The%20Devil%20in%20Me.zip",
+      "Custom_Images": ""
+    },
+    "242760": {
+      "Name": "The Forest",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/The%20Forest%20Bypass.zip",
+      "Custom_Images": ""
+    },
+    "2828860": {
+      "Name": "The Forever Winter",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/The%20Forever%20Winter.zip",
+      "Custom_Images": ""
+    },
+    "2285150": {
+      "Name": "The Front",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/The%20Front.zip",
+      "Custom_Images": ""
+    },
+    "3059070": {
+      "Name": "The Headliners",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/The%20Headliners.zip",
+      "Custom_Images": ""
+    },
+    "774461": {
+      "Name": "The Jackbox Party Pack 5",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/The%20Jackbox%20Party%20Pack%205.zip",
+      "Custom_Images": ""
+    },
+    "2948640": {
+      "Name": "The Jackbox Survey Scramble",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/The%20Jackbox%20Survey%20Scramble.zip",
+      "Custom_Images": ""
+    },
+    "2757810": {
+      "Name": "The Jump Guys",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/The%20Jump%20Guys.zip",
+      "Custom_Images": ""
+    },
+    "1498570": {
+      "Name": "THE KING OF FIGHTERS XV",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/The%20King%20of%20Fighters%20XV.zip",
+      "Custom_Images": ""
+    },
+    "1564600": {
+      "Name": "The Last Plague: Blight",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/The%20Last%20Plague%20Blight.zip",
+      "Custom_Images": ""
+    },
+    "1284190": {
+      "Name": "The Planet Crafter",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/The%20Planet%20Crafter.zip",
+      "Custom_Images": ""
+    },
+    "1577120": {
+      "Name": "The Quarry",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/The%20Quarry.zip",
+      "Custom_Images": ""
+    },
+    "2904000": {
+      "Name": "The Spell Brigade",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/The%20Spell%20Brigade.zip",
+      "Custom_Images": ""
+    },
+    "1245250": {
+      "Name": "Thrive: Heavy Lies The Crown",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Thrive%20Heavy%20Lies%20The%20Crown.zip",
+      "Custom_Images": ""
+    },
+    "2264340": {
+      "Name": "TIEBREAK+: Official Game of the ATP and WTA",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/TIEBREAK+%20Official%20game%20of%20the%20ATP%20and%20WTA.zip",
+      "Custom_Images": ""
+    },
+    "3211680": {
+      "Name": "Tobacco Shop Simulator",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Tobacco%20Shop%20Simulator.zip",
+      "Custom_Images": ""
+    },
+    "2455340": {
+      "Name": "Together in Between",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Together%20in%20Between.zip",
+      "Custom_Images": ""
+    },
+    "460930": {
+      "Name": "Tom Clancy's Ghost Recon® Wildlands",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Tom%20Clancy's%20Ghost%20Recon%20Wildlands.zip",
+      "Custom_Images": ""
+    },
+    "594570": {
+      "Name": "Total War: WARHAMMER II",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Total%20War%20WARHAMMER%20II.zip",
+      "Custom_Images": ""
+    },
+    "2113900": {
+      "Name": "Touge Shakai",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Touge%20Shakai.zip",
+      "Custom_Images": ""
+    },
+    "2178070": {
+      "Name": "Towers of Aghasba",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Towers%20of%20Aghasba.zip",
+      "Custom_Images": ""
+    },
+    "2343920": {
+      "Name": "Trackline Express",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Trackline%20Express.zip",
+      "Custom_Images": ""
+    },
+    "2546690": {
+      "Name": "Tram Simulator Urban Transit",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Tram%20Simulator%20Urban%20Transit.zip",
+      "Custom_Images": ""
+    },
+    "1139980": {
+      "Name": "Travellers Rest",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Travellers%20Rest.zip",
+      "Custom_Images": ""
+    },
+    "1069650": {
+      "Name": "Ultimate Admiral: Age of Sail",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Ultimate%20Admiral%20Age%20of%20Sail.zip",
+      "Custom_Images": ""
+    },
+    "1136380": {
+      "Name": "Ultimate Fishing® Simulator 2",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Ultimate%20Fishing%20Simulator%202.zip",
+      "Custom_Images": ""
+    },
+    "357190": {
+      "Name": "ULTIMATE MARVEL VS. CAPCOM 3",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Ultimate%20Marvel%20Vs%20Capcom%203.zip",
+      "Custom_Images": ""
+    },
+    "2076010": {
+      "Name": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/UNDER%20NIGHT%20IN-BIRTH%20II%20Sys%20Celes.zip",
+      "Custom_Images": ""
+    },
+    "3249560": {
+      "Name": "Undercover Fools",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Undercover%20Fools.zip",
+      "Custom_Images": ""
+    },
+    "3025290": {
+      "Name": "UNDERWARD",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/UNDERWARD.zip",
+      "Custom_Images": ""
+    },
+    "2976900": {
+      "Name": "Unpossess: Exorcism Simulator",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Unpossess%20Exorcism%20Simulator.zip",
+      "Custom_Images": ""
+    },
+    "2211170": {
+      "Name": "Unrailed 2: Back on Track",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Unrailed%202%20Back%20on%20Track.zip",
+      "Custom_Images": ""
+    },
+    "1225560": {
+      "Name": "Unravel",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Unravel.zip",
+      "Custom_Images": ""
+    },
+    "1225570": {
+      "Name": "Unravel Two",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Unravel%20Two.zip",
+      "Custom_Images": ""
+    },
+    "2172010": {
+      "Name": "Until Dawn™",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Until%20Dawn%20Bypass.zip",
+      "Custom_Images": ""
+    },
+    "1604030": {
+      "Name": "V Rising",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/V%20Rising.zip",
+      "Custom_Images": ""
+    },
+    "892970": {
+      "Name": "Valheim",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Valheim.zip",
+      "Custom_Images": ""
+    },
+    "1159690": {
+      "Name": "Voidtrain",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Voidtrain.zip",
+      "Custom_Images": ""
+    },
+    "951440": {
+      "Name": "Volcanoids",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Volcanoids.zip",
+      "Custom_Images": ""
+    },
+    "2009460": {
+      "Name": "War of Wizards",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/War%20of%20Wizards.zip",
+      "Custom_Images": ""
+    },
+    "1361210": {
+      "Name": "Warhammer 40,000: Darktide",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Warhammer%2040,000%20Darktide.zip",
+      "Custom_Images": ""
+    },
+    "3169520": {
+      "Name": "Warhammer 40,000: Space Marine - Master Crafted Edition",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Warhammer%2040,000%20Space%20Marine%20Master%20Crafted%20Edition.zip",
+      "Custom_Images": ""
+    },
+    "2183900": {
+      "Name": "Warhammer 40,000: Space Marine 2",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Warhammer%2040,000%20Space%20Marine%202.zip",
+      "Custom_Images": ""
+    },
+    "552500": {
+      "Name": "Warhammer: Vermintide 2",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Warhammer%20Vermintide%202.zip",
+      "Custom_Images": ""
+    },
+    "2239550": {
+      "Name": "Watch Dogs®: Legion",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Watch%20Dogs%20Legion%20Bypass.zip",
+      "Custom_Images": ""
+    },
+    "447040": {
+      "Name": "Watch_Dogs® 2",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Watch%20Dogs%202%20UB%20Bypass.zip",
+      "Custom_Images": ""
+    },
+    "243470": {
+      "Name": "Watch_Dogs™",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Watch_Dogs%20Ubisoft%20Bypass.zip",
+      "Custom_Images": ""
+    },
+    "1288320": {
+      "Name": "Way of the Hunter",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Way%20of%20the%20Hunter.zip",
+      "Custom_Images": ""
+    },
+    "865360": {
+      "Name": "We Were Here Together",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/We%20Were%20Here%20Together.zip",
+      "Custom_Images": ""
+    },
+    "2920510": {
+      "Name": "Werewolf Party",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Werewolf%20Party.zip",
+      "Custom_Images": ""
+    },
+    "2193540": {
+      "Name": "Wizard of Legend 2",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Wizard%20of%20Legend%202.zip",
+      "Custom_Images": ""
+    },
+    "1448440": {
+      "Name": "Wo Long: Fallen Dynasty",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Wo%20Long%20Fallen%20Dynasty.zip",
+      "Custom_Images": ""
+    },
+    "1866980": {
+      "Name": "Worlds of Aria",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Worlds%20of%20Aria.zip",
+      "Custom_Images": ""
+    },
+    "217200": {
+      "Name": "Worms Armageddon",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Worms%20Armageddon.zip",
+      "Custom_Images": ""
+    },
+    "3533100": {
+      "Name": "Wrap House Simulator🌯",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Wrap%20House%20Simulator.zip",
+      "Custom_Images": ""
+    },
+    "1203190": {
+      "Name": "Wreckfest 2",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Wreckfest%202.zip",
+      "Custom_Images": ""
+    },
+    "1481170": {
+      "Name": "ZEPHON",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/ZEPHON.zip",
+      "Custom_Images": ""
+    },
+    "2268560": {
+      "Name": "Zombie Survival Game Online",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Zombie%20Survival%20Game.zip",
+      "Custom_Images": ""
+    },
+    "1801520": {
+      "Name": "Zombieville USA 3D",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Zombieville%20USA%203D.zip",
+      "Custom_Images": ""
+    },
+    "3121110": {
+      "Name": "Zort",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/ZORT.zip",
+      "Custom_Images": ""
+    },
+    "992300": {
+      "Name": "嗜血印 Bloody Spell",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Bloody%20Spell.zip",
       "Custom_Images": ""
     }
   }
