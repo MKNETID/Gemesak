@@ -26,7 +26,7 @@
       "Name": "A Way Out",
       "GameFix": true,
       "Bypass": false,
-      "OnlineFix": false,
+      "OnlineFix": true,
       "Note": [
         "Enjoy the Game.."
       ],
@@ -37,7 +37,7 @@
       "Name": "Ale & Tale Tavern",
       "GameFix": true,
       "Bypass": false,
-      "OnlineFix": false,
+      "OnlineFix": true,
       "Note": [
         "Enjoy the Game.."
       ],
@@ -103,7 +103,7 @@
       "Name": "Aragami 2",
       "GameFix": true,
       "Bypass": false,
-      "OnlineFix": false,
+      "OnlineFix": true,
       "Note": [
         "Enjoy the Game.."
       ],
@@ -114,7 +114,7 @@
       "Name": "ARK: Survival Ascended",
       "GameFix": true,
       "Bypass": false,
-      "OnlineFix": false,
+      "OnlineFix": true,
       "Note": [
         "Enjoy the Game.."
       ],
@@ -135,7 +135,7 @@
     "48190": {
       "Name": "Assassin’s Creed® Brotherhood",
       "GameFix": true,
-      "Bypass": false,
+      "Bypass": true,
       "OnlineFix": false,
       "Note": [
         "Enjoy the Game.."
@@ -146,7 +146,7 @@
     "208480": {
       "Name": "Assassin’s Creed® III",
       "GameFix": true,
-      "Bypass": false,
+      "Bypass": true,
       "OnlineFix": false,
       "Note": [
         "Enjoy the Game.."
@@ -168,7 +168,7 @@
     "311560": {
       "Name": "Assassin’s Creed® Rogue",
       "GameFix": true,
-      "Bypass": false,
+      "Bypass": true,
       "OnlineFix": false,
       "Note": [
         "Enjoy the Game.."
@@ -179,7 +179,7 @@
     "33230": {
       "Name": "Assassin's Creed 2",
       "GameFix": true,
-      "Bypass": false,
+      "Bypass": true,
       "OnlineFix": false,
       "Note": [
         "Enjoy the Game.."
@@ -229,7 +229,7 @@
         "Enjoy the Game.."
       ],
       "Url_Fix": "https://generator.ryuu.lol/fixes/Assassin's%20Creed%20Revelations%20Bypass.zip",
-      "Custom_Images": ""
+      "Custom_Images": "https://cdn2.steamgriddb.com/grid/2bfbbb88707a0d5a163e456aff58fc49.png"
     },
     "368500": {
       "Name": "Assassin's Creed® Syndicate",
@@ -245,7 +245,7 @@
     "289650": {
       "Name": "Assassin's Creed® Unity",
       "GameFix": true,
-      "Bypass": false,
+      "Bypass": true,
       "OnlineFix": false,
       "Note": [
         "Enjoy the Game.."
@@ -268,11 +268,506 @@
       "Name": "Attack on Titan / A.O.T. Wings of Freedom",
       "GameFix": true,
       "Bypass": false,
-      "OnlineFix": false,
+      "OnlineFix": true,
       "Note": [
         "Enjoy the Game.."
       ],
       "Url_Fix": "https://generator.ryuu.lol/fixes/Attack%20on%20Titan%20A.O.T%20Wings%20of%20Freedom.zip",
+      "Custom_Images": "https://cdn2.steamgriddb.com/thumb/307f537c3f8d870aa44418b8f0213c07.jpg"
+    },
+    "1066890": {
+      "Name": "Automobilista 2",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Automobilista%202.zip",
+      "Custom_Images": ""
+    },
+    "3140990": {
+      "Name": "Backrooms Cleanup Crew",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Backrooms%20Cleanup%20Crew.zip",
+      "Custom_Images": ""
+    },
+    "2275020": {
+      "Name": "Backrooms Rec.",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Backrooms%20Rec.zip",
+      "Custom_Images": ""
+    },
+    "2141730": {
+      "Name": "Backrooms: Escape Together",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Backrooms%20Escape%20Together.zip",
+      "Custom_Images": ""
+    },
+    "2835530": {
+      "Name": "Backrooms: Extractions",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Backrooms%20Extractions.zip",
+      "Custom_Images": ""
+    },
+    "1086940": {
+      "Name": "Baldur's Gate 3",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Baldur's%20Gate%203.zip",
+      "Custom_Images": ""
+    },
+    "1025600": {
+      "Name": "Battle Realms: Zen Edition",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Battle%20Realms%20Zen%20Edition.zip",
+      "Custom_Images": ""
+    },
+    "1331510": {
+      "Name": "Battle Talent",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Battle%20Talent.zip",
+      "Custom_Images": ""
+    },
+    "1238820": {
+      "Name": "Battlefield 3™",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Battlefield%203.zip",
+      "Custom_Images": ""
+    },
+    "1238860": {
+      "Name": "Battlefield 4™",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Battlefield%204%E2%84%A2.zip",
+      "Custom_Images": ""
+    },
+    "1238840": {
+      "Name": "Battlefield™ 1",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Battlefield%E2%84%A2%201%20Revolution.zip",
+      "Custom_Images": ""
+    },
+    "1238810": {
+      "Name": "Battlefield™ V",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Battlefield%20V.zip",
+      "Custom_Images": ""
+    },
+    "284160": {
+      "Name": "BeamNG.drive",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/BeamNG.Drive.zip",
+      "Custom_Images": ""
+    },
+    "3130340": {
+      "Name": "Bean There, Won That",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Bean%20There,%20Won%20That.zip",
+      "Custom_Images": ""
+    },
+    "620980": {
+      "Name": "Beat Saber",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Beat%20Saber.zip",
+      "Custom_Images": ""
+    },
+    "1812450": {
+      "Name": "Bellwright",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Bellwright.zip",
+      "Custom_Images": ""
+    },
+    "509980": {
+      "Name": "BIGFOOT",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/BIGFOOT.zip",
+      "Custom_Images": ""
+    },
+    "1158940": {
+      "Name": "Blazing Sails",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Blazing%20Sails.zip",
+      "Custom_Images": ""
+    },
+    "1689620": {
+      "Name": "BLEACH Rebirth of Souls",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/BLEACH%20Rebirth%20Of%20Souls.zip",
+      "Custom_Images": ""
+    },
+    "2790330": {
+      "Name": "Blood Typers",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Blood%20Typers.zip",
+      "Custom_Images": ""
+    },
+    "871540": {
+      "Name": "BMX Streets",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/BMX%20Streets.zip",
+      "Custom_Images": ""
+    },
+    "2406770": {
+      "Name": "Bodycam",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Bodycam.zip",
+      "Custom_Images": ""
+    },
+    "49520": {
+      "Name": "Borderlands 2",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Borderlands%202.zip",
+      "Custom_Images": ""
+    },
+    "397540": {
+      "Name": "Borderlands 3",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Borderlands%203.zip",
+      "Custom_Images": ""
+    },
+    "8980": {
+      "Name": "Borderlands Game of the Year",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Borderlands%20GOTY.zip",
+      "Custom_Images": ""
+    },
+    "261640": {
+      "Name": "Borderlands: The Pre-Sequel",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Borderlands%20The%20Pre-Sequel.zip",
+      "Custom_Images": ""
+    },
+    "2235150": {
+      "Name": "Brain Show: Party Game",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Brain%20Show%20Party%20Quiz.zip",
+      "Custom_Images": ""
+    },
+    "1354260": {
+      "Name": "Brave Escape",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Brave%20Escape.zip",
+      "Custom_Images": ""
+    },
+    "2835570": {
+      "Name": "Buckshot Roulette",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Buckshot%20Roulette.zip",
+      "Custom_Images": ""
+    },
+    "2780470": {
+      "Name": "Bunker Invaders",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Bunker%20Invaders.zip",
+      "Custom_Images": ""
+    },
+    "3408110": {
+      "Name": "Cafemart Simulator",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Cafemart%20Simulator.zip",
+      "Custom_Images": ""
+    },
+    "7940": {
+      "Name": "Call of Duty® 4: Modern Warfare® (2007)",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Call%20of%20Duty%204%20Modern%20Warfare.zip",
+      "Custom_Images": ""
+    },
+    "42700": {
+      "Name": "Call of Duty®: Black Ops",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Call%20of%20Duty%20-%20Black%20Ops.zip",
+      "Custom_Images": ""
+    },
+    "1985810": {
+      "Name": "Call of Duty®: Black Ops Cold War",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Call%20of%20Duty%20Black%20Ops%20Cold%20War.zip",
+      "Custom_Images": ""
+    },
+    "202970": {
+      "Name": "Call of Duty®: Black Ops II",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Call%20of%20Duty%C2%AE%20Black%20Ops%20II.zip",
+      "Custom_Images": ""
+    },
+    "311210": {
+      "Name": "Call of Duty®: Black Ops III",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Call%20of%20Duty%20Black%20Ops%20III.zip",
+      "Custom_Images": ""
+    },
+    "209160": {
+      "Name": "Call of Duty®: Ghosts",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Call%20of%20Duty%20Ghosts.zip",
+      "Custom_Images": ""
+    },
+    "292730": {
+      "Name": "Call of Duty®: Infinite Warfare",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Call%20of%20Duty%20Infinite%20Warfare.zip",
+      "Custom_Images": ""
+    },
+    "2000950": {
+      "Name": "Call of Duty®: Modern Warfare®",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Call%20of%20Duty%20Modern%20Warfare%20(2019).zip",
+      "Custom_Images": ""
+    },
+    "10180": {
+      "Name": "Call of Duty®: Modern Warfare® 2 (2009)",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Call%20of%20Duty%20Modern%20Warfare%202%20(2009).zip",
+      "Custom_Images": ""
+    },
+    "115300": {
+      "Name": "Call of Duty®: Modern Warfare® 3 (2011)",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Call%20of%20Duty%20Modern%20Warfare%203%20(2011).zip",
+      "Custom_Images": ""
+    },
+    "1985820": {
+      "Name": "Call of Duty®: Vanguard",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Call%20of%20Duty%20Vanguard.zip",
+      "Custom_Images": ""
+    },
+    "476600": {
+      "Name": "Call of Duty®: WWII",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Call%20Of%20Duty%20WWII.zip",
+      "Custom_Images": ""
+    },
+    "400750": {
+      "Name": "Call to Arms - Gates of Hell: Ostfront",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Call%20to%20Arms%20Gates%20of%20Hell%20Ostfront.zip",
+      "Custom_Images": ""
+    },
+    "2400430": {
+      "Name": "Capcom Fighting Collection 2",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Capcom%20Fighting%20Collection%202.zip",
       "Custom_Images": ""
     },
     "2050650": {
