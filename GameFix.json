@@ -1,0 +1,25 @@
+{
+  "GameFix": {
+    "1222700": {
+      "Name": "A Way Out",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": false,
+      "Note": [],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/A%20Way%20Out.zip",
+      "Custom_Images": ""
+    },
+    "2050650": {
+      "Name": "Resident Evil 4",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Now, you can play Resident Evil 4 Remake without bypassing Denuvo or bypassing the game.",
+        "However, the Separate Ways DLC currently doesn't allow you to save your game."
+      ],
+      "Url_Fix": "",
+      "Custom_Images": ""
+    }
+  }
+}
