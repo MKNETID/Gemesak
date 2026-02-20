@@ -1,12 +1,278 @@
 {
   "GameFix": {
+    "251570": {
+      "Name": "7 Days to Die",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/7%20Days%20to%20Die.zip",
+      "Custom_Images": ""
+    },
+    "752590": {
+      "Name": "A Plague Tale: Innocence",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/A%20Plague%20Tale%20Innocence%20Bypass.zip",
+      "Custom_Images": ""
+    },
     "1222700": {
       "Name": "A Way Out",
       "GameFix": true,
       "Bypass": false,
       "OnlineFix": false,
-      "Note": [],
+      "Note": [
+        "Enjoy the Game.."
+      ],
       "Url_Fix": "https://generator.ryuu.lol/fixes/A%20Way%20Out.zip",
+      "Custom_Images": ""
+    },
+    "2683150": {
+      "Name": "Ale & Tale Tavern",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Ale%20and%20Tale%20Tavern.zip",
+      "Custom_Images": ""
+    },
+    "1549970": {
+      "Name": "Aliens: Fireteam Elite",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Aliens%20Fireteam%20Elite.zip",
+      "Custom_Images": ""
+    },
+    "1660080": {
+      "Name": "Aloft",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Aloft.zip",
+      "Custom_Images": ""
+    },
+    "2524700": {
+      "Name": "Altarium",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Altarium.zip",
+      "Custom_Images": ""
+    },
+    "270880": {
+      "Name": "American Truck Simulator",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/American%20Truck%20Simulator.zip",
+      "Custom_Images": ""
+    },
+    "2788040": {
+      "Name": "Another Try 2",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Another%20Try%202.zip",
+      "Custom_Images": ""
+    },
+    "1158370": {
+      "Name": "Aragami 2",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Aragami%202.zip",
+      "Custom_Images": ""
+    },
+    "2399830": {
+      "Name": "ARK: Survival Ascended",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/ARK%20Survival%20Ascended.zip",
+      "Custom_Images": ""
+    },
+    "1888160": {
+      "Name": "ARMORED CORE™ VI FIRES OF RUBICON™",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/ARMORED%20CORE%20VI%20FIRES%20OF%20RUBICON.zip",
+      "Custom_Images": ""
+    },
+    "48190": {
+      "Name": "Assassin’s Creed® Brotherhood",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Assassin%20Creed%20Brotherhood.zip",
+      "Custom_Images": ""
+    },
+    "208480": {
+      "Name": "Assassin’s Creed® III",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Assassin%20Creed%20III.zip",
+      "Custom_Images": ""
+    },
+    "242050": {
+      "Name": "Assassin’s Creed® IV Black Flag™",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Assassins%20Creed%20IV%20Black%20Flag%20Bypass.zip",
+      "Custom_Images": ""
+    },
+    "311560": {
+      "Name": "Assassin’s Creed® Rogue",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Assassin%20Creed%20Rogue.zip",
+      "Custom_Images": ""
+    },
+    "33230": {
+      "Name": "Assassin's Creed 2",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Assassin's%20Creed%20II.zip",
+      "Custom_Images": ""
+    },
+    "3035570": {
+      "Name": "Assassin's Creed Mirage",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Assassin's%20Creed%20Mirage%20Bypass.zip",
+      "Custom_Images": ""
+    },
+    "2208920": {
+      "Name": "Assassin's Creed Valhalla",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Assassin%20Creed%20Valhalla%20Bypass.zip",
+      "Custom_Images": ""
+    },
+    "582160": {
+      "Name": "Assassin's Creed® Origins",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Assassin's%20Creed%20Origin%20Ubisoft%20Bypass.zip",
+      "Custom_Images": ""
+    },
+    "201870": {
+      "Name": "Assassin's Creed® Revelations",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Assassin's%20Creed%20Revelations%20Bypass.zip",
+      "Custom_Images": ""
+    },
+    "368500": {
+      "Name": "Assassin's Creed® Syndicate",
+      "GameFix": true,
+      "Bypass": true,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Assassin's%20Creed%20Syndicate%20Bypass.zip",
+      "Custom_Images": ""
+    },
+    "289650": {
+      "Name": "Assassin's Creed® Unity",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Assassin%20Creed%20Unity.zip",
+      "Custom_Images": ""
+    },
+    "361420": {
+      "Name": "ASTRONEER",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": true,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/ASTRONEER.zip",
+      "Custom_Images": ""
+    },
+    "449800": {
+      "Name": "Attack on Titan / A.O.T. Wings of Freedom",
+      "GameFix": true,
+      "Bypass": false,
+      "OnlineFix": false,
+      "Note": [
+        "Enjoy the Game.."
+      ],
+      "Url_Fix": "https://generator.ryuu.lol/fixes/Attack%20on%20Titan%20A.O.T%20Wings%20of%20Freedom.zip",
       "Custom_Images": ""
     },
     "2050650": {
