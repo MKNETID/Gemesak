@@ -1,0 +1,102 @@
+V2.5.2
++ Fixed Steam not opening issue. (please go to settings and click reinstall Spawner Core).
+
+V2.5.1
++ Fix Steam purchases.
+
+V2.5.0
++ Temporary fix. Added shortcuts to delete appinfo.vdf and packageinfo.vdf files in settings.
+
+V2.4.9
++ Fix steam problem always ask for password when change account denuvo games.
+
+V2.4.8
++ Added More Denuvo Games.
++ Added Denuvo game server list.
+
+V2.4.7
+- Temporarily delete, auto-login Denuvo games (you can log in manually).
+
+V2.4.6
++ The application has been fixed to automatically detect the Steam path when logging into a Denuvo game.
++ Add cancel button when login denuvo game.
+
+V2.4.5
++ Fixed Denuvo Games login issues.
+
+V2.4.4
++ Minor Fix.
+
+V2.4.3
++ Optimize RAM usage.
++ Smoothness Optimization
+
+V2.4.2
++ Change the game bypass tab to Bypass and Online fix tab.
+(If you want to play with friends, both must use onlinefix)
+
+V2.4.1
++ Add Denuvo Games.. (you can use it to bypass denuvo, only 5x activation per day, I don't know the reset time.)
+
+V2.4.0
++ Added Game Update Log
++ Minor Fix.
+
+V2.3.5
++ Add Total Game in Database
+
+V2.3.4
++ Minor Update
+
+V2.3.3
++ Reworked DRM label
++ Remove Update Button in My Library
+
+V2.3.2
++ Fix "error" when adding game
+
+V2.3.1
++ Minor Fix.
+
+V2.3.0
++ Add Game Bypass(not denuvo bypass, but you can play the game.)
+
+V2.2.4
++ Fix: unable to manually insert zip files into manifest addons.
+
+V2.2.3
++ Minor Fix.
+
+V2.2.2
++ Minor Fix.
+- Remove ScrollBar (can still be scrolled using the mouse.)
+
+V2.2.1
++ Minor Fix
+
+V2.2.0
++ Update core spawner support for 64-bit Steam.
++ It is recommended to restore Steam to default.
+- Removed Steam 32-bit downgrade option.
+
+V2.1.1
++ Minor fix
+
+V2.1
++ Add steamless fix.
++ Minor UI fix.
++ Fixed an issue where MyLibrary could not update games.
++ You can add your own games. Simply drag and drop the .lua files to add them to the library.
+
+V2.0
++ Initial release version 2.0.
++ New UI.
++ Add Library Adder (you can add games here).
++ Add My Library (you can delete the game or update the game).
++ Added a forced downgrade option for 32-bit Steam. (Temporary fix library not shown).
++ Add Game Fix
++ Add goldberg fix.
+
+V1.0
++ Add Library Adder
++ Add My Library
