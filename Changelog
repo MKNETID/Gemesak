@@ -1,3 +1,8 @@
+V3.0.2
++ Added Denuvo Server 3.
++ Added new Denuvo games on server 3.
++ Added Crimson Desert.
+
 V3.0.1
 + Update Spawner Core.
 + Reduce application size.
@@ -7,7 +12,7 @@ V3.0.0
 + Change the application theme.
 + Moved some action buttons.
 + Reduce application size.
-+ And some implementation changes
++ And some implementation changes.
 
 V2.5.2
 + Fixed Steam not opening issue. (please go to settings and click reinstall Spawner Core).
