@@ -1,3 +1,7 @@
+V3.0.4
++ Added Auto Download Manifest (default on), to fix no internet connection.
++ If the no internet connection error appears, just add or update the game again.
+
 V3.0.3
 + Mini Update
 
