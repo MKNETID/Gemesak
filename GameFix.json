@@ -3647,10 +3647,10 @@
       "Bypass": true,
       "OnlineFix": false,
       "Note": [
-        "Now, you can play Resident Evil 4 Remake without bypassing Denuvo or bypassing the game.",
-        "However, the Separate Ways DLC currently doesn't allow you to save your game."
+        "Now, you can play Resident Evil 4 Remake with all its DLC.",
+        "Of course you can play the Separate Ways DLC."
       ],
-      "Url_Fix": "",
+      "Url_Fix": "https://raw.githubusercontent.com/MKNETID/Gemesak/refs/heads/gemesak-app/files/Resident%20Evil%204%20-%20Bypass.zip",
       "Custom_Images": ""
     },
     "1196590": {
