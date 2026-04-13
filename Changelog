@@ -1,3 +1,8 @@
+V3.0.6
++ Added an "Add Depot" button in My Library. (to add a manual depot)
++ Added Depot Auto Download function in settings.
++ Added Depot files in Database to fix "no internet connection".
+
 V3.0.5
 + Revert update to previous update
 
