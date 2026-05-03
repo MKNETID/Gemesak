@@ -1,3 +1,9 @@
+V3.0.7
++ Implemented Discord authentication for user login
++ Updated the application icon design
++ Introduced a new User tab to the interface
++ Applied various minor bug fixes and performance improvements
+
 V3.0.6
 + Added an "Add Depot" button in My Library. (to add a manual depot)
 + Added Depot Auto Download function in settings.
