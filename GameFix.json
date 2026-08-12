@@ -2,198 +2,236 @@
   "GameFix": {
     "3768760": {
       "Name": "007 First Light",
-      "GameFix": true,
-      "Bypass": true,
-      "OnlineFix": false,
+      "Custom_Manifest": "",
       "Note": [
-        "Enjoy the Game.."
+        "Installation steps:",
+        "1. Add the game via the \"Add\" tab.",
+        "2. Install the game.",
+        "3. Click \"Install Bypass\".",
+        "4. Launch the game."
       ],
       "Url_Fix": "https://github.com/ggid0/Arsip/releases/download/archives/007-First-Light.zip",
       "Custom_Images": "https://store-images.s-microsoft.com/image/apps.8071.14287567326939893.1fdb2217-3463-49e6-b44c-c16587b03bc8.d8033845-8141-4dc4-b49e-2a8e6749235d"
     },
     "3159330": {
       "Name": "Assassin’s Creed Shadows",
-      "GameFix": true,
-      "Bypass": true,
-      "OnlineFix": false,
+      "Custom_Manifest": "",
       "Note": [
-        "Enjoy the Game.."
+        "Installation steps:",
+        "1. Add the game via the \"Add\" tab.",
+        "2. Install the game.",
+        "3. Click \"Install Bypass\".",
+        "4. Launch the game."
       ],
       "Url_Fix": "https://github.com/ggid0/Arsip/releases/download/archives/Assassins-Creed-Shadows.zip",
       "Custom_Images": ""
     },
     "668580": {
       "Name": "Atomic Heart",
-      "GameFix": true,
-      "Bypass": true,
-      "OnlineFix": false,
+      "Custom_Manifest": "",
       "Note": [
-        "Enjoy the Game.."
+        "Installation steps:",
+        "1. Add the game via the \"Add\" tab.",
+        "2. Install the game.",
+        "3. Click \"Install Bypass\".",
+        "4. Launch the game."
       ],
       "Url_Fix": "https://github.com/ggid0/Arsip/releases/download/archives/Atomic-Heart-Complete.zip",
       "Custom_Images": ""
     },
     "2840770": {
       "Name": "Avatar: Frontiers of Pandora™",
-      "GameFix": true,
-      "Bypass": true,
-      "OnlineFix": false,
+      "Custom_Manifest": "",
       "Note": [
-        "Enjoy the Game.."
+        "Installation steps:",
+        "1. Add the game via the \"Add\" tab.",
+        "2. Install the game.",
+        "3. Click \"Install Bypass\".",
+        "4. Launch the game."
       ],
       "Url_Fix": "https://github.com/ggid0/Arsip/releases/download/archives/Avatar-Frontiers-of-Pandora.zip",
       "Custom_Images": ""
     },
     "2358720": {
       "Name": "Black Myth: Wukong",
-      "GameFix": true,
-      "Bypass": true,
-      "OnlineFix": false,
+      "Custom_Manifest": "",
       "Note": [
-        "Enjoy the Game.."
+        "Installation steps:",
+        "1. Add the game via the \"Add\" tab.",
+        "2. Install the game.",
+        "3. Click \"Install Bypass\".",
+        "4. Launch the game."
       ],
       "Url_Fix": "https://github.com/ggid0/Arsip/releases/download/archives/Black-Myth-Wukong.zip",
       "Custom_Images": ""
     },
     "3321460": {
       "Name": "Crimson Desert",
-      "GameFix": true,
-      "Bypass": true,
-      "OnlineFix": false,
+      "Custom_Manifest": "",
       "Note": [
-        "Enjoy the Game.."
+        "Installation steps:",
+        "1. Add the game via the \"Add\" tab.",
+        "2. Install the game.",
+        "3. Click \"Install Bypass\".",
+        "4. Launch the game."
       ],
       "Url_Fix": "https://github.com/ggid0/Arsip/releases/download/archives/Crimson-Desert.zip",
       "Custom_Images": ""
     },
     "1693980": {
       "Name": "Dead Space",
-      "GameFix": true,
-      "Bypass": true,
-      "OnlineFix": false,
+      "Custom_Manifest": "",
       "Note": [
-        "Enjoy the Game.."
+        "Installation steps:",
+        "1. Add the game via the \"Add\" tab.",
+        "2. Install the game.",
+        "3. Click \"Install Bypass\".",
+        "4. Launch the game."
       ],
       "Url_Fix": "https://github.com/ggid0/Arsip/releases/download/archives/Dead-Space-Remake-PROPER.zip",
       "Custom_Images": ""
     },
     "3017860": {
       "Name": "DOOM: The Dark Ages",
-      "GameFix": true,
-      "Bypass": true,
-      "OnlineFix": false,
+      "Custom_Manifest": "",
       "Note": [
-        "Enjoy the Game.."
+        "Installation steps:",
+        "1. Add the game via the \"Add\" tab.",
+        "2. Install the game.",
+        "3. Click \"Install Bypass\".",
+        "4. Launch the game."
       ],
       "Url_Fix": "https://github.com/ggid0/Arsip/releases/download/archives/DOOM-The-Dark-Ages.zip",
       "Custom_Images": ""
     },
     "990080": {
       "Name": "Hogwarts Legacy",
-      "GameFix": true,
-      "Bypass": true,
-      "OnlineFix": false,
+      "Custom_Manifest": "",
       "Note": [
-        "Enjoy the Game.."
+        "Installation steps:",
+        "1. Add the game via the \"Add\" tab.",
+        "2. Install the game.",
+        "3. Click \"Install Bypass\".",
+        "4. Launch the game."
       ],
       "Url_Fix": "https://github.com/ggid0/Arsip/releases/download/archives/Hogwarts-Legacy-Complete.zip",
       "Custom_Images": ""
     },
     "2215200": {
       "Name": "LEGO® Batman™: Legacy of the Dark Knight",
-      "GameFix": true,
-      "Bypass": true,
-      "OnlineFix": false,
+      "Custom_Manifest": "",
       "Note": [
-        "Enjoy the Game.."
+        "Installation steps:",
+        "1. Add the game via the \"Add\" tab.",
+        "2. Install the game.",
+        "3. Click \"Install Bypass\".",
+        "4. Launch the game."
       ],
       "Url_Fix": "https://github.com/ggid0/Arsip/releases/download/archives/LEGO-Batman-Legacy-of-the-Dark-Knight.zip",
       "Custom_Images": "https://cdn1.epicgames.com/spt-assets/fa70ea4db42249d1b3c6e4775d0f65a6/dinner-1hsix.jpg"
     },
     "1941540": {
       "Name": "Mafia: The Old Country",
-      "GameFix": true,
-      "Bypass": true,
-      "OnlineFix": false,
+      "Custom_Manifest": "",
       "Note": [
-        "Enjoy the Game.."
+        "Installation steps:",
+        "1. Add the game via the \"Add\" tab.",
+        "2. Install the game.",
+        "3. Click \"Install Bypass\".",
+        "4. Launch the game."
       ],
       "Url_Fix": "https://github.com/ggid0/Arsip/releases/download/archives/Mafia-The-Old-Country.zip",
       "Custom_Images": ""
     },
     "3357650": {
       "Name": "PRAGMATA",
-      "GameFix": true,
-      "Bypass": true,
-      "OnlineFix": false,
+      "Custom_Manifest": "",
       "Note": [
-        "Enjoy the Game.."
+        "Installation steps:",
+        "1. Add the game via the \"Add\" tab.",
+        "2. Install the game.",
+        "3. Click \"Install Bypass\".",
+        "4. Launch the game."
       ],
       "Url_Fix": "https://github.com/ggid0/Arsip/releases/download/archives/PRAGMATA.zip",
       "Custom_Images": "https://i.imgur.com/ndYiMeM.jpeg"
     },
     "2050650": {
       "Name": "Resident Evil 4",
-      "GameFix": true,
-      "Bypass": true,
-      "OnlineFix": false,
+      "Custom_Manifest": "",
       "Note": [
-        "Enjoy the Game.."
+        "Installation steps:",
+        "1. Add the game via the \"Add\" tab.",
+        "2. Install the game.",
+        "3. Click \"Install Bypass\".",
+        "4. Launch the game."
       ],
       "Url_Fix": "https://github.com/MKNETID/Gemesak/blob/gemesak-app/files/Resident%20Evil%204%20-%20Bypass.zip",
       "Custom_Images": ""
     },
     "3764200": {
       "Name": "Resident Evil Requiem",
-      "GameFix": true,
-      "Bypass": true,
-      "OnlineFix": false,
+      "Custom_Manifest": "https://github.com/MKNETID/Gemesak/raw/refs/heads/gemesak-app/files/CustomManifest/3764200%20ver22277314.zip",
       "Note": [
-        "Enjoy the Game.."
+        "The bypass only works on game version/build 22277314.",
+        "How to install:",
+        "1. Do not add the game using the \"Add\" button.",
+        "2. Click the \"Custom Manifest\" button to add the game using version 22277314.",
+        "3. Install the game using version 22277314 (if a different version is already installed, you must reinstall it).",
+        "4. Once installation is complete, click the \"Install Bypass\" button.",
+        "5. Play the game."
       ],
       "Url_Fix": "https://github.com/ggid0/Arsip/releases/download/archives/Resident-Evil-Requiem.zip",
       "Custom_Images": "https://i.imgur.com/Aa4zPKl.jpeg"
     },
     "1413480": {
       "Name": "Shin Megami Tensei III Nocturne HD Remaster",
-      "GameFix": true,
-      "Bypass": true,
-      "OnlineFix": false,
+      "Custom_Manifest": "",
       "Note": [
-        "Enjoy the Game.."
+        "Installation steps:",
+        "1. Add the game via the \"Add\" tab.",
+        "2. Install the game.",
+        "3. Click \"Install Bypass\".",
+        "4. Launch the game."
       ],
       "Url_Fix": "https://github.com/ggid0/Arsip/releases/download/archives/Shin-Megami-Tensei-III-Nocturne-HD-Remaster.zip",
       "Custom_Images": ""
     },
     "1237320": {
       "Name": "Sonic Frontiers",
-      "GameFix": true,
-      "Bypass": true,
-      "OnlineFix": false,
+      "Custom_Manifest": "",
       "Note": [
-        "Enjoy the Game.."
+        "Enjoy the Game..Installation steps:",
+        "1. Add the game via the \"Add\" tab.",
+        "2. Install the game.",
+        "3. Click \"Install Bypass\".",
+        "4. Launch the game."
       ],
       "Url_Fix": "https://github.com/ggid0/Arsip/releases/download/archives/Sonic-Frontiers.zip",
       "Custom_Images": ""
     },
     "3489700": {
       "Name": "Stellar Blade™",
-      "GameFix": true,
-      "Bypass": true,
-      "OnlineFix": false,
+      "Custom_Manifest": "",
       "Note": [
-        "Enjoy the Game.."
+        "Installation steps:",
+        "1. Add the game via the \"Add\" tab.",
+        "2. Install the game.",
+        "3. Click \"Install Bypass\".",
+        "4. Launch the game."
       ],
       "Url_Fix": "https://github.com/ggid0/Arsip/releases/download/archives/Stellar-Blade.zip",
       "Custom_Images": ""
     },
     "2680010": {
       "Name": "The First Berserker: Khazan",
-      "GameFix": true,
-      "Bypass": true,
-      "OnlineFix": false,
+      "Custom_Manifest": "",
       "Note": [
-        "Enjoy the Game.."
+        "Installation steps:",
+        "1. Add the game via the \"Add\" tab.",
+        "2. Install the game.",
+        "3. Click \"Install Bypass\".",
+        "4. Launch the game."
       ],
       "Url_Fix": "https://github.com/ggid0/Arsip/releases/download/archives/The-First-Berserker-Khazan.zip",
       "Custom_Images": ""
