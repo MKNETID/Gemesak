@@ -13,6 +13,19 @@
       "Url_Fix": "https://github.com/ggid0/Arsip/releases/download/archives/007-First-Light.zip",
       "Custom_Images": "https://store-images.s-microsoft.com/image/apps.8071.14287567326939893.1fdb2217-3463-49e6-b44c-c16587b03bc8.d8033845-8141-4dc4-b49e-2a8e6749235d"
     },
+    "3751950": {
+      "Name": "Assassin's Creed Black Flag Resynced",
+      "Custom_Manifest": "",
+      "Note": [
+        "Installation steps:",
+        "1. Add the game via the \"Add\" tab.",
+        "2. Install the game.",
+        "3. Click \"Install Bypass\".",
+        "4. Launch the game."
+      ],
+      "Url_Fix": "https://github.com/ggid0/Arsip/releases/download/1.0.1/Assassins-Creed-Black-Flag-Resynced.zip",
+      "Custom_Images": ""
+    },
     "3159330": {
       "Name": "Assassin’s Creed Shadows",
       "Custom_Manifest": "",
