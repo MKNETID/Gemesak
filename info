@@ -1,3 +1,6 @@
++ CloudRedirect to fix Steam Cloud Error.
+Since Steam can no longer store save games with cloud save, I added an option to automatically back up game save data to your personal cloud, such as OneDrive or Google Drive. How to use it: go to the Cloud tab and enable Cloud Redirect, then log in using your Google Drive or OneDrive account.
+
 + Play games with your friends.
 You can now play online games with your friends using the "online fix" method.
 Go to your library, select the game you want, click the menu button (•••), and then click "online fix."
