@@ -1,3 +1,8 @@
+V3.1.1
++ Added a "Get Depot" button to the library.
++ Added an option to automatically download depots when adding a game.
++ To resolve "no internet connection" issues, try adding a depot to the game.
+
 V3.1.0.5
 + Added CloudRedirect system.
 + Fixed Steam Cloud Error issues by enabling CloudRedirect.
