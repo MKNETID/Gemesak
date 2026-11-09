@@ -195,6 +195,19 @@
       "Url_Fix": "https://github.com/ggid0/Arsip/releases/download/1.0.1/Metal-Gear-Solid-V.Complete.zip",
       "Custom_Images": ""
     },
+    "2638890": {
+      "Name": "Onimusha: Way of the Sword",
+      "Custom_Manifest": "",
+      "Note": [
+        "Installation steps:",
+        "1. Add the game via the \"Add\" tab.",
+        "2. Install the game.",
+        "3. Click \"Install Bypass\".",
+        "4. Launch the game."
+      ],
+      "Url_Fix": "https://github.com/ggid0/Arsip/releases/download/1.0.2/Onimusha-Way-of-the-Sword.zip",
+      "Custom_Images": ""
+    },
     "1809700": {
       "Name": "Persona 3 Portable",
       "Custom_Manifest": "",
